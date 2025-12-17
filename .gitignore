@@ -1,0 +1,24 @@
+# Compiled class files
+*.class
+**/*.class
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDE
+.idea/
+*.iml
+bin/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Output directories
+target/
+build/
+out/
