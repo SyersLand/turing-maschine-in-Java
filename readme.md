@@ -107,6 +107,10 @@ Execution completed.
 This project was developed as part of Programmieren 2 Assignment at THM (Technische Hochschule Mittelhessen). It demonstrates:
 
 1.Object-oriented programming principles
+
 2.Theoretical computer science concepts
+
 3.Software engineering best practices
+
 4.Academic assignment completion standards
+
